@@ -3,7 +3,7 @@
 **Course**: Engineering Capstone Project – 1 (23IE4053R / 23IE4053A)  
 **Academic Year**: 2026 - 2027  
 **Department**: Department of Computer Science & Engineering (CSE)  
-**Repository Name**: `KLH-CSE-2026-27-2420030604-CampusIssueReportingSystem`
+**Repository Name**: `KLH-CSE-2026-27-2420030644-CampusIssueReportingSystem`
 
 ---
 
